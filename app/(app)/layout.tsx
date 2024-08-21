@@ -1,4 +1,4 @@
-import Sidebar from "@/components/App/Sidebar";
+import Sidebar from "@/components/app/sidebar";
 import React from "react";
 
 interface AppLayoutProps {

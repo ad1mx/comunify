@@ -1,6 +1,6 @@
-import Footer from "@/components/Landing/Footer";
-import Header from "@/components/Landing/Header";
-import Hero from "@/components/Landing/Hero";
+import Footer from "@/components/landing/footer";
+import Header from "@/components/landing/header";
+import Hero from "@/components/landing/hero";
 import React from "react";
 
 const LandingPage = () => {
